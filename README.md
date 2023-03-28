@@ -1,4 +1,4 @@
-# Bulletproof React 🛡️ ⚛️
+# Production Architecture React 🛡️ ⚛️
 
 [![MIT License](https://img.shields.io/github/license/alan2207/bulletproof-react)](https://github.com/alan2207/bulletproof-react/blob/master/LICENCE)
 [![CI](https://github.com/alan2207/bulletproof-react/actions/workflows/ci.yml/badge.svg)](https://github.com/alan2207/bulletproof-react/actions/workflows/ci.yml)
@@ -34,16 +34,6 @@ This is not supposed to be a template, boilerplate or a framework. It is an opin
 - [🚄 Performance](docs/performance.md)
 - [🌐 Deployment](docs/deployment.md)
 - [📚 Additional Resources](docs/additional-resources.md)
-
-## Contributing
-
-Contributions are always welcome! If you have any ideas, suggestions, fixes, feel free to contribute. You can do that by going through the following steps:
-
-1. Clone this repo
-2. Create a branch: `git checkout -b your-feature`
-3. Make some changes
-4. Test your changes
-5. Push your branch and open a Pull Request
 
 ## License
 
